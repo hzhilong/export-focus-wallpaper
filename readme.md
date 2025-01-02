@@ -1,5 +1,5 @@
 # 导出锁屏壁纸
-![alt icon](/assets/doc/icon-128.png)
+![alt icon](./assets/doc/icon-128.png)
 
 一键导出 Windows 聚焦锁屏壁纸的工具。
 
@@ -17,9 +17,9 @@
 
 ## 软件截图
 
-![alt 截图01](/assets/screenshot/01.png)
+![alt 截图01](./assets/screenshot/01.png)
 
 导出结果：
 
-![alt 截图01](/assets/screenshot/02.png)
+![alt 截图01](./assets/screenshot/02.png)
 
